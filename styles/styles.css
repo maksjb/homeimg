@@ -26,6 +26,7 @@ a {
   border-radius: 40px;
   border: 1px solid #dfe1e5;
   padding-left: 50px;
+  outline: none;
   font-size: 17px;
   background: url(https://i.ibb.co/R06DWpW/lupa.png) no-repeat 17px;
 }
