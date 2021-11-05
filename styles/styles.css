@@ -8,8 +8,8 @@ a {
 }
 .glogo {
   margin-top: 170px;
-  margin-left: 585px;
-  margin-bottom: 28px;
+  margin-left: 575px;
+  margin-bottom: 25px;
 }
 /* Input Form */
 
@@ -75,4 +75,5 @@ a {
   color: #4285f4;
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 0;
+  margin-left: 0;
 }
